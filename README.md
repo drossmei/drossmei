@@ -1,4 +1,13 @@
-### Hi there 👋
+# Welcome to my Github Page!
+Here you can see the source code of some of my public projects.
+
+## Projects
+#### [Swift Launch](https://github.com/Swift-Suite/Swift-Launch "Go to Swift Launch Page")
+This is a desktop application built using Electron that manages executable files on a local machine.
+
+#### [Meme Me](https://github.com/drossmei/MemeMe "Go Memeify!")
+This is a Hackathon project that uses the OpenCV library to detect faces and overlay filters.
+
 
 <!--
 **drossmei/drossmei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
